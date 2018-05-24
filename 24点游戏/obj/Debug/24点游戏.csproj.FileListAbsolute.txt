@@ -1,0 +1,14 @@
+F:\学霸\C#\24点游戏\24点游戏\bin\Debug\24点游戏.exe.config
+F:\学霸\C#\24点游戏\24点游戏\bin\Debug\24点游戏.exe
+F:\学霸\C#\24点游戏\24点游戏\bin\Debug\24点游戏.pdb
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\_24点游戏.Properties.Resources.resources
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\24点游戏.csproj.GenerateResource.Cache
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\24点游戏.exe
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\24点游戏.pdb
+F:\学霸\C#\24点游戏\24点游戏\bin\Debug\MySql.Data.dll
+F:\学霸\C#\24点游戏\24点游戏\bin\Debug\MySql.Data.xml
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\_24点游戏.UserEnter.resources
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\_24点游戏.Chatting.resources
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\_24点游戏.Games.resources
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\_24点游戏.Changepw.resources
+F:\学霸\C#\24点游戏\24点游戏\obj\Debug\_24点游戏.Newuser.resources

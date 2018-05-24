@@ -1,0 +1,26 @@
+H:\vs2010\第23章范例源码\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+H:\vs2010\第23章范例源码\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+H:\vs2010\第23章范例源码\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+H:\vs2010\第23章范例源码\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+H:\vs2010\第23章范例源码\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+F:\教学 (2012-20120921ky)\教材\2014-3\C#书籍\C#第17-18-19-22-23章（黄艳）\案例源码\第23章范例源码\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+F:\教学 (2012-20120921ky)\教材\2014-3\C#书籍\C#第17-18-19-22-23章（黄艳）\案例源码\第23章范例源码\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+F:\教学 (2012-20120921ky)\教材\2014-3\C#书籍\C#第17-18-19-22-23章（黄艳）\案例源码\第23章范例源码\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+F:\教学 (2012-20120921ky)\教材\2014-3\C#书籍\C#第17-18-19-22-23章（黄艳）\案例源码\第23章范例源码\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+F:\教学 (2012-20120921ky)\教材\2014-3\C#书籍\C#第17-18-19-22-23章（黄艳）\案例源码\第23章范例源码\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+F:\教学 (2012-20120921ky)\教材\2014-3\C#书籍\C#第17-18-19-22-23章（黄艳）\案例源码\第23章范例源码\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+F:\学霸\C#\TCP通信\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+F:\学霸\C#\TCP通信\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+F:\学霸\C#\TCP通信\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+F:\学霸\C#\TCP通信\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+F:\学霸\C#\TCP通信\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+F:\学霸\C#\TCP通信\ChatServer\ChatServer\bin\Debug\MySql.Data.dll
+F:\学霸\C#\TCP通信\ChatServer\ChatServer\bin\Debug\MySql.Data.xml
+F:\学霸\C#\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+F:\学霸\C#\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+F:\学霸\C#\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+F:\学霸\C#\ChatServer\ChatServer\bin\Debug\MySql.Data.dll
+F:\学霸\C#\ChatServer\ChatServer\bin\Debug\MySql.Data.xml
+F:\学霸\C#\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+F:\学霸\C#\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+F:\学霸\C#\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
